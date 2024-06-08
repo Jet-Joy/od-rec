@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(0,200,52);
+}
+.recipes-text{
+    font-size: 50px;
+    text-align: center;
+    border-radius: 50px;
+    border-style: groove;
+    background-color: pink;
+    color:aqua;
+}
